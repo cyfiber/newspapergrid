@@ -1,0 +1,44 @@
+.nav-wrapper { 
+background-color: black; 
+font-family: 'Averia Serif Libre', cursive;
+padding-left: 20px;  
+ }
+
+body
+
+h1 { 
+font-family: 'Averia Serif Libre', cursive;	
+font-size: 25px; 
+font-style: bold;  
+padding-top: 40px; 
+
+  }
+
+@media screen and (max-width: 600px) {
+  header {
+    height: 250px;
+  }
+}  
+
+p { 
+line-height: 1.6;
+font-size: 15px;
+font-family:'EB Garamond', serif;
+padding-bottom: 20px; 
+
+ }
+
+
+
+
+
+ }
+.center-align { 
+
+
+ }
+
+
+
+
+ }
